@@ -46,7 +46,6 @@ tokio-io = "0.1.2"
 tokio-retry = "0.1.1"
 tokio-timer = "0.1.2"
 failure = "0.1.1"
-os_info = { git= "https://github.com/Erchard/os_info.git", rev = "2e4205e"}
 chrono = { version = "0.4.0", features = ["serde"] }
 bodyparser = "0.8.0"
 uuid = { version = "0.6.0", features = ["serde"] }

@@ -47,7 +47,6 @@ extern crate iron_cors;
 #[macro_use]
 extern crate log;
 extern crate mount;
-extern crate os_info;
 extern crate params;
 extern crate rand;
 extern crate router;

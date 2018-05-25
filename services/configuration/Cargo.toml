@@ -16,7 +16,7 @@ travis-ci = { repository = "exonum/exonum" }
 circle-ci = { repository = "exonum/exonum" }
 
 [dependencies]
-exonum = { version = "0.7.0", path = "../../exonum" }
+exonum = { git = "https://github.com/Erchard/exonum.git", rev = "456bbb6"}
 clap = "2.30.0"
 tempdir = "0.3.5"
 env_logger = "0.5.3"
